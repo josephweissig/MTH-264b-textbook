@@ -1,13 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "colophon-1",
+  "id": "frontmatter-2",
   "level": "1",
-  "url": "colophon-1.html",
+  "url": "frontmatter-2.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "   linnbenton.edu   https:\/\/www.linnbenton.edu\/   copyright  "
+  "body": "  linnbenton.edu   copyright  "
 },
 {
   "id": "examples",
@@ -19,63 +19,63 @@ var ptx_lunr_docs = [
   "body": " Samples of various pretext formats     C    D       Does this make a difference?     Here is a paragraph. With quotations and single quotes , emphasis and angles .  Here are examples of the OscarLevin css style.     Here is a part of an ordered list    next part      try again       Here is an itemized list      Here is an itemized list            integral   An integral is a sum.     integral   An integral is a sum.     integral   An integral is a sum.     integral  An integral is a sum.    integral  An integral is a sum.   integral An integral is a sum. A variable is a container for information.   How to do an aside  here is an aside. can you footnote an aside?   with two paragraphs and    It seems that asides get lost a little on the right, so I think I should use them sparingly. How in the heck do you write a paragraph that is readable?  Exercise What  Does this work at all?    What happens if I do this? Blah blah blah     C    D      blah blah   "
 },
 {
-  "id": "objectives-1",
+  "id": "examples-2",
   "level": "2",
-  "url": "examples.html#objectives-1",
+  "url": "examples.html#examples-2",
   "type": "Objectives",
   "number": "0.1",
   "title": "",
   "body": "   C    D    "
 },
 {
-  "id": "investigation-1",
+  "id": "examples-3-1",
   "level": "2",
-  "url": "examples.html#investigation-1",
+  "url": "examples.html#examples-3-1",
   "type": "Investigation",
   "number": "0.1",
   "title": "",
   "body": " Does this make a difference?  "
 },
 {
-  "id": "objectives-2",
+  "id": "examples-6-1",
   "level": "2",
-  "url": "examples.html#objectives-2",
+  "url": "examples.html#examples-6-1",
   "type": "Objectives",
   "number": "",
   "title": "",
   "body": " "
 },
 {
-  "id": "p-12",
+  "id": "examples-7",
   "level": "2",
-  "url": "examples.html#p-12",
+  "url": "examples.html#examples-7",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "integral integral integral integral integral integral variable "
 },
 {
-  "id": "exercise-2",
+  "id": "examples-10",
   "level": "2",
-  "url": "examples.html#exercise-2",
+  "url": "examples.html#examples-10",
   "type": "You Try",
   "number": "0.4",
   "title": "Exercise What.",
   "body": "Exercise What  Does this work at all?  "
 },
 {
-  "id": "outcomes-1",
+  "id": "examples-12",
   "level": "2",
-  "url": "examples.html#outcomes-1",
+  "url": "examples.html#examples-12",
   "type": "Outcomes",
   "number": "0.1",
   "title": "",
   "body": "   C    D    "
 },
 {
-  "id": "exercise-3",
+  "id": "examples-13-1",
   "level": "2",
-  "url": "examples.html#exercise-3",
+  "url": "examples.html#examples-13-1",
   "type": "Reading Question",
   "number": "1",
   "title": "",
@@ -91,54 +91,54 @@ var ptx_lunr_docs = [
   "body": " Variables  In this section we will learn how to assign values to a variable in Python and display results.     Create a variable in Python using =     Display a variable in Python using print()       A variable is like a container that can be used to store information or data. In Python you assign a variable using = .  Run the Python code below by clicking the Evaluate (Python) button.   Note that the function print() was needed to display the value of the variable.  Change the value of the variable a by adding 5 after the 2*3 above and run the code again to see how the output changes.    Naming Variables  Variables can be named using letters, underscores, numbers, etc. Just be sure to use the exact same name to call your variable.  For example, the following code has a syntax error. Run the code as is and see what happens.    Can you fix the bug in the above code so it runs correctly?   Variables are case sensitive and must be exactly the same for Python to recognize them.     Arithmetic and Comments in Python  Python recognizes simple arithmetic symbols like + -, *, \/ .  Meanwhile a hashtag # can be used to tell Python to ignore code, reading what follows as a comment by the author rather than a Python command.   Comments can help anyone reading your code understand what that section of the code is doing. You can also comment out portions of code to isolate a bug.   In the box below, change the value of the variable arithmetic to try out some basic calculations. Add a comment using # to explain what your code is doing.   You can use the standard order of operations and parentheses (PEMDAS).      More about Variables  Just like in math, variables can be helpful when the information will change. Recall the formula for the area of a circle .  In the code below,    fill in the formula for the area of the circle using the appropriate variable names and arithmetic operations.      Use the code to approximately compute the area of a circle with radius 5 and a circle with radius 13.       Syntax and Semantic errors  One error we can make when creating and editing code is to mis-type a command causing Python to not understand the syntax , that is the chosen command, in our program. Another error is when we make our meaning unclear, more of a semantic issue. For example you can add numbers to numbers or strings of letters to strings of letters in Python but if we try to add a number to a string of letters, Python will not know what is meant by adding.    Summary     A variable can be used as a container to store data or information.      Use print(variable_name) to display the information stored in the variable.      Use # to comment and make your code more readable.       test it out   "
 },
 {
-  "id": "objectives-3",
+  "id": "section-variables-3",
   "level": "2",
-  "url": "section-variables.html#objectives-3",
+  "url": "section-variables.html#section-variables-3",
   "type": "Objectives",
   "number": "1.1",
   "title": "",
   "body": "   Create a variable in Python using =     Display a variable in Python using print()     "
 },
 {
-  "id": "p-31",
+  "id": "section-variables-4-1",
   "level": "2",
-  "url": "section-variables.html#p-31",
+  "url": "section-variables.html#section-variables-4-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "variable "
 },
 {
-  "id": "exercise-4",
+  "id": "section-variables-4-5",
   "level": "2",
-  "url": "section-variables.html#exercise-4",
+  "url": "section-variables.html#section-variables-4-5",
   "type": "You Try",
   "number": "1.1",
   "title": "",
   "body": "Change the value of the variable a by adding 5 after the 2*3 above and run the code again to see how the output changes. "
 },
 {
-  "id": "exercise-5",
+  "id": "subsec-naming-variables-5",
   "level": "2",
-  "url": "section-variables.html#exercise-5",
+  "url": "section-variables.html#subsec-naming-variables-5",
   "type": "You Try",
   "number": "1.2",
   "title": "",
   "body": " Can you fix the bug in the above code so it runs correctly?   Variables are case sensitive and must be exactly the same for Python to recognize them.  "
 },
 {
-  "id": "exercise-6",
+  "id": "subsec_comments_in_Python-6",
   "level": "2",
-  "url": "section-variables.html#exercise-6",
+  "url": "section-variables.html#subsec_comments_in_Python-6",
   "type": "You Try",
   "number": "1.3",
   "title": "",
   "body": " In the box below, change the value of the variable arithmetic to try out some basic calculations. Add a comment using # to explain what your code is doing.   You can use the standard order of operations and parentheses (PEMDAS).  "
 },
 {
-  "id": "exercise-7",
+  "id": "exercises--1",
   "level": "2",
-  "url": "section-variables.html#exercise-7",
+  "url": "section-variables.html#exercises--1",
   "type": "Exercise",
   "number": "1",
   "title": "",
@@ -154,45 +154,45 @@ var ptx_lunr_docs = [
   "body": " Python Packages and NumPy  Python packages and libraries are collections of functions and modules centered around a common theme. In this section we will learn how to import a Python package and use functions from that package.     Import a Python package or library (our example NumPy).    Use functions from a Python package.      Importing the package NumPy  NumPy is an open source scientific computing package that allows you to use standard mathematical functions and constants like sine or pi. NumPy also allows you to work with arrays of numbers so you can efficiently perform computations.   Note to call a function from an imported package you must use the syntax package.function . To avoid retyping the long name of a package every time, it is standard practice to rename the package as you import.  Rename the package numpy in the above code by replacing the import line with import numpy as np . Next use the new name of the package to call the function np.sin() and re-run.    Standard functions in NumPy  In addition to the standard trigonometric functions, NumPy also contains as exp() and natural log as log() , as well as the standard mathematical constants like pi and e .  Use the NumPy package to compute the area of a circle using pi. If you import numpy as np, you will use np.pi     NumPy arrays  NumPy arrays can help us efficiently do computations with a collection of numbers all at once. We can also represent vectors or matrices using NumPy arrays. Run the code below that calls the NumPy function array to see how it works.   NumPy also has built in functions to automatically create an array with certain conditions. For example linspace() takes a given interval and sets up an array of evenly spaced numbers on that interval.   Note that the array includes 5, so it takes 11 evenly spaced numbers to get numbers 0.5 apart. Note also that although the number values are evenly spaced, the printed array is not. Namely the default is to space out the entries by the maximum number of decimal places with blank spaces instead of extra zeroes.  Edit the above code to use linspace to create an array of numbers between 0 and 5 that are one-quarter apart. When you evaluate your code should print the list 0, 0.25, 0.5, 0.75, etc.  Another way to create an array of values for a given interval is arange() , which uses a step value to set up a sequence of numbers within that interval.   Note that the array gets cut off before the right endpoint of the interval if your stepsize doesn't divide the interval evenly.  Edit the above code to use arange to create an array of numbers between 0 and 5 that are one-quarter apart. When you evaluate your code should print the list 0, 0.25, 0.5, 0.75, etc.    Debugging revisited  Add another exercise that they need to debug.    You can find more information about the package NumPy at . Python's wiki has a list of other commonly used modules and packages .    Summary     You can import a Python package and rename it by using import package as name .    You can call a function from a package using packagename.function     Numpy arrays can help us efficiently do computations.    The Numpy functions linspace() and arange() set up an array of values over an interval.      "
 },
 {
-  "id": "objectives-4",
+  "id": "section-modules-3",
   "level": "2",
-  "url": "section-modules.html#objectives-4",
+  "url": "section-modules.html#section-modules-3",
   "type": "Objectives",
   "number": "1.2",
   "title": "",
   "body": "   Import a Python package or library (our example NumPy).    Use functions from a Python package.    "
 },
 {
-  "id": "exercise-8",
+  "id": "section-modules-4-5",
   "level": "2",
-  "url": "section-modules.html#exercise-8",
+  "url": "section-modules.html#section-modules-4-5",
   "type": "You Try",
   "number": "1.4",
   "title": "",
   "body": "Rename the package numpy in the above code by replacing the import line with import numpy as np . Next use the new name of the package to call the function np.sin() and re-run. "
 },
 {
-  "id": "exercise-9",
+  "id": "section-modules-5-3",
   "level": "2",
-  "url": "section-modules.html#exercise-9",
+  "url": "section-modules.html#section-modules-5-3",
   "type": "You Try",
   "number": "1.5",
   "title": "",
   "body": "Use the NumPy package to compute the area of a circle using pi. If you import numpy as np, you will use np.pi "
 },
 {
-  "id": "exercise-10",
+  "id": "section-modules-6-7",
   "level": "2",
-  "url": "section-modules.html#exercise-10",
+  "url": "section-modules.html#section-modules-6-7",
   "type": "You Try",
   "number": "1.6",
   "title": "",
   "body": "Edit the above code to use linspace to create an array of numbers between 0 and 5 that are one-quarter apart. When you evaluate your code should print the list 0, 0.25, 0.5, 0.75, etc. "
 },
 {
-  "id": "exercise-11",
+  "id": "section-modules-6-11",
   "level": "2",
-  "url": "section-modules.html#exercise-11",
+  "url": "section-modules.html#section-modules-6-11",
   "type": "You Try",
   "number": "1.7",
   "title": "",
@@ -208,81 +208,81 @@ var ptx_lunr_docs = [
   "body": " Matplotlib and 2D graphing  Matplotlib is a Python library that uses NumPy arrays ( ) to create static or interactive graphs and data visualizations. In this section we will learn how to use the MatPlotLib to graph curves and plot points in 2D.     Use Matplotlib to graph curves.    Use Matplotlib to make a scatterplot.    Label the axes on a graph.      Curves in 2D  Matplotlib graphs curves by plotting points and connecting the dots. A Matplotlib function called pyplot is used to create the figure and axes. The inputs and outputs are given by NumPy arrays and then plotted on the axes.            Read through both sets of code below that uses matplotlib to graph a line and a sine curve to see the syntax for these steps. Do you see the difference in how the numpy arrays were created for the inputs and outputs? Run both sets of code to see the result.    Note when `connecting the dots' you need enough points to get a smooth curve.  Change both of the above sets of code to whole number inputs from 0 to 6.   What happens to your line?    What happens to your sine curve?     Change the above code to use arange() instead of linspace() to set up your inputs. What is the smallest step size that makes the curve look smooth?  Change the above code to graph with a traditional input window like [-10,10].  You can plot more than one graph in the same figure using the same inputs but more than one set of outputs. Run the code below to graph and on the same graph.   Notice that if you don't specify the inputs, pyplot uses a default set instead. Change the above code and remove the second call for the inputs X in ax.plot(). What is the default input window pyplot uses for Y2?  Change the above code to add a third function on the same graph.    Scatter Plots in 2D  To graph a scatterplot, use the command scatter instead of plot .  Adjust the code in any plot above to make it into a scatter plot instead.  Replace ax.plot() with ax.scatter() in the code.   For scatter plots sometimes you get the data from an experiment instead of a formula. As long as the outputs are given as a NumPy array, either from manipulating your input array, or by creating a completely new array, Matplotlib will still connect the dots.     Parametric Curves in 2D  In mathematics and the sciences we sometimes introduce a new parameter and write coordinates and in terms of that parameter. This is common for curves that are not functions of , like circles or ellipses, or a nice way to model motion, where the and coordinate location of an object is the output at each input time . If you haven't seen this in a Trigonometry class, or if you need a refresher, check out insert appendix stuff here . In mathematics these parametric curves or space curves are often written as a set of two parametric equations or a vector-valued function.  For example, we can graph a circle using or, equivalently, for values of in   Matplotlib still graphs these curves by plotting points using plot and connecting the dots, which will make it easy to generalize these curves to 3D.   Note that the above code graphs the unit circle. Play with the above functions for and to see what other interesting curves you can graph. In particular, when you have the parameter , can you create  a line?  a different circle?  a parabola?      Axes and Labels  You can easily add titles or labels to your axes using the commands set_title(\"title_here\") , set_xlabel(\"label_here\") , set_ylabel(\"label_here\") . Since the code below is longer, you might need to scroll to see all of the commands.    You can also adjust the tick marks on the axes, but it takes a little more work, and there are multiple approaches.  Search online for a way to change the tick labels in Matplotlib. Try and adjust the \"Falling Body\" graph to have tickmarks every quarter of a second.    Customizing  You can customize pretty much everything in the plot: colors, markers, line width and styles, etc. Below are a few examples.    The comma separated list of possible commands inside the parentheses of a function like plot() are called the arguments of the function. The functions plot and scatter can take arguments like color=\"color_here\" , linestyle=\"style_here\" , linewidth=number_here , marker=\"markertype_here\" .    There are other ways to set up your figure and your axes in Matplotlib. Some are shortcuts and Matplotlib will use default settings (e.g. if we do not explicitly give inputs for the function we want to graph.) The approach in this section is very explicit, which makes it easier to understand how to control each feature as we get started.    Summary     Every graph needs a figure and an axes.    We graph a connected curve on our axes using axes_name.plot(array x,array y) for both standard equations and parametric curves.    We graph a scatterplot on our axes using axes_name.scatter(array x, array y) .    We graph a parametric curve on our axes using axes_name.plot(array x, array y) .    We can use numpy.linspace() to efficiently create enough points for plot() to connect the dots into a smooth-looking curve.    We can add titles and labels using axes_name.set_title(\"Title\") or axes_name.set_xlabel(\"input_label\") .    We can customize color, linestyles, plotting styles, thickness, tickmarks, font sizes, etc. to make our graph exactly what we need for publication.      "
 },
 {
-  "id": "objectives-5",
+  "id": "section-matplotlib-3",
   "level": "2",
-  "url": "section-matplotlib.html#objectives-5",
+  "url": "section-matplotlib.html#section-matplotlib-3",
   "type": "Objectives",
   "number": "1.3",
   "title": "",
   "body": "   Use Matplotlib to graph curves.    Use Matplotlib to make a scatterplot.    Label the axes on a graph.    "
 },
 {
-  "id": "exercise-12",
+  "id": "section-matplotlib-4-7",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-12",
+  "url": "section-matplotlib.html#section-matplotlib-4-7",
   "type": "You Try",
   "number": "1.8",
   "title": "",
   "body": "Change both of the above sets of code to whole number inputs from 0 to 6.   What happens to your line?    What happens to your sine curve?    "
 },
 {
-  "id": "exercise-13",
+  "id": "section-matplotlib-4-8",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-13",
+  "url": "section-matplotlib.html#section-matplotlib-4-8",
   "type": "You Try",
   "number": "1.9",
   "title": "",
   "body": "Change the above code to use arange() instead of linspace() to set up your inputs. What is the smallest step size that makes the curve look smooth? "
 },
 {
-  "id": "exercise-14",
+  "id": "section-matplotlib-4-9",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-14",
+  "url": "section-matplotlib.html#section-matplotlib-4-9",
   "type": "You Try",
   "number": "1.10",
   "title": "",
   "body": "Change the above code to graph with a traditional input window like [-10,10]. "
 },
 {
-  "id": "exercise-15",
+  "id": "section-matplotlib-4-12",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-15",
+  "url": "section-matplotlib.html#section-matplotlib-4-12",
   "type": "You Try",
   "number": "1.11",
   "title": "",
   "body": "Notice that if you don't specify the inputs, pyplot uses a default set instead. Change the above code and remove the second call for the inputs X in ax.plot(). What is the default input window pyplot uses for Y2? "
 },
 {
-  "id": "exercise-16",
+  "id": "section-matplotlib-4-13",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-16",
+  "url": "section-matplotlib.html#section-matplotlib-4-13",
   "type": "You Try",
   "number": "1.12",
   "title": "",
   "body": "Change the above code to add a third function on the same graph. "
 },
 {
-  "id": "exercise-17",
+  "id": "subsec-scatterplots-3",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-17",
+  "url": "section-matplotlib.html#subsec-scatterplots-3",
   "type": "You Try",
   "number": "1.13",
   "title": "",
   "body": "Adjust the code in any plot above to make it into a scatter plot instead.  Replace ax.plot() with ax.scatter() in the code.  "
 },
 {
-  "id": "exercise-18",
+  "id": "section-matplotlib-6-6",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-18",
+  "url": "section-matplotlib.html#section-matplotlib-6-6",
   "type": "You Try",
   "number": "1.14",
   "title": "",
   "body": "Note that the above code graphs the unit circle. Play with the above functions for and to see what other interesting curves you can graph. In particular, when you have the parameter , can you create  a line?  a different circle?  a parabola?   "
 },
 {
-  "id": "exercise-19",
+  "id": "axes-5",
   "level": "2",
-  "url": "section-matplotlib.html#exercise-19",
+  "url": "section-matplotlib.html#axes-5",
   "type": "You Try",
   "number": "1.15",
   "title": "",
@@ -298,90 +298,90 @@ var ptx_lunr_docs = [
   "body": " Matplotlib and 3D graphing   Now that we have some experience making 2D graphs, let's learn how to make 3D graphs. Note that we can graph both curves and surfaces in 3D. If you have taken a multivariable class hopefully you remember that surfaces arise as solutions to equations of three variables, while points on a space curve are parametric equations or vector-valued functions. The code for the points on a space curve is a little more straightforward so we will start with those examples.      Use Matplotlib to graph parametric curves in 3D.    Use Matplotlib to graph surfaces and scatterplots in 3D.      3D axes  First, for 3D graphs we will need to add 3D axes to our figure using the keyword projection='3d' . Read through and run the code below to see the default 3D axes.     Parametric Curves in 3D  Matplotlib graphs 3D curves by plotting points and connecting the dots. The , , and coordinates are still given by numpy arrays and then plotted on the axes.  Run the code below to graph the equation of a line between the points and .   Edit the above code to graph the equation of a line between the points and .  Edit the above code to add a third number to each numpy array. What happens? Can you explain what plot() just graphed?  We can also graph curves by making coordinates dependent on another. For example, the curve below looks like a parabola in the -direction above the shadow    As before, we need enough input points to get a smooth curve.  Parametric curves in 3D are just like 2D (see ( )) with an added -coordinate. For example, we can graph a horizontal circle at using              Play with the above code for , , and to see what other interesting curves you can create. In 3-space can you graph  a line?  a spiral?  a different circle?      Surfaces and scatterplots in 3D  To graph a surface or 3D scatterplot, we will need two-dimensional numpy arrays for all of our inputs and outputs. As a shortcut we can create 1D arrays for the and inputs first, then use NumPy's function meshgrid() to create a coordinate grid of inputs (two 2D arrays). Last we define our outputs on that coordinate grid.  The function scatter() will plot a scatterplot just like in 2D. The function plot_surface() plots the points and connect those dots with a surface. Just like we need enough points to get a curve that looks smooth, we will need enough points to get a surface that looks smooth.  Run the code below trying both the command plot_surface() (current default) and scatter() to see the difference.   For the surface, increase the step in each input and run the above code again. When does the surface start to look polygonal instead of smooth?  Modify the above code to graph the surface . Choose a reasonable range of inputs that shows the important features of the graph.  Change the surface to . What step size is needed to make the input window [-2,2] and [-2,2] display a smooth surface?  As in the 2D case, the function scatter() plots the points without connecting the dots.    Axes and Labels  Adding titles or labels to our 3D axes uses the same commands as in 2D. the commands set_title(\"title_here\") , set_xlabel(\"label_here\") , set_ylabel(\"label_here\") .   In the above code, use parallel syntax to add a label to the -axis.  Note that the default viewing window makes the -axis positive left to right and -axis positive front to back. Something new in the 3D setting, however, is the ability to choose our viewing angle for the 3D axes using view_init(elev= , azim=, roll=) .  In the code below, play with the values for elev , azim and roll .   What does each change?  What custom viewing angle do you think showcases this particular surface the best?       Customizing  Like in 2D, we can customize our plots: the style, colors, markers, meshes, contours, line width, etc. There are many features available that we didn't cover here, but hopefully you have enough to get you started with 3D graphing using Matplotlib in Python.  So how do you learn more?  Look up Matplotlib's documentation on the web and find their page of examples, 3D plotting . Pick a 3D graph you want to learn to code and use the cell below to try it out. How is what you found different than what you learned in this section? Experiment by adjusting Matplotlib's example code to see what happens.     This section gave us just an introduction to 3D graphing possibilities using Matplotlib in Python. There are many other opportunities Add conclusion here. More. and more. And more.    Summary     We can add 3D axes using the argument projection='3d' inside pyplot's axes command.    We can use numpy.meshgrid() to create input coordinates on a grid and then use plot_surface() or scatter() to plot a surface or scatter plot on 3D axes.    As before we need enough points for plot_surface() or plot() to make smooth graphs.      "
 },
 {
-  "id": "objectives-6",
+  "id": "section-matplotlib3d-3",
   "level": "2",
-  "url": "section-matplotlib3d.html#objectives-6",
+  "url": "section-matplotlib3d.html#section-matplotlib3d-3",
   "type": "Objectives",
   "number": "1.4",
   "title": "",
   "body": "   Use Matplotlib to graph parametric curves in 3D.    Use Matplotlib to graph surfaces and scatterplots in 3D.    "
 },
 {
-  "id": "exercise-20",
+  "id": "subsec-3DParam-5",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-20",
+  "url": "section-matplotlib3d.html#subsec-3DParam-5",
   "type": "You Try",
   "number": "1.16",
   "title": "",
   "body": "Edit the above code to graph the equation of a line between the points and . "
 },
 {
-  "id": "exercise-21",
+  "id": "subsec-3DParam-6",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-21",
+  "url": "section-matplotlib3d.html#subsec-3DParam-6",
   "type": "You Try",
   "number": "1.17",
   "title": "",
   "body": "Edit the above code to add a third number to each numpy array. What happens? Can you explain what plot() just graphed? "
 },
 {
-  "id": "exercise-22",
+  "id": "subsec-3DParam-12",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-22",
+  "url": "section-matplotlib3d.html#subsec-3DParam-12",
   "type": "You Try",
   "number": "1.18",
   "title": "",
   "body": "Play with the above code for , , and to see what other interesting curves you can create. In 3-space can you graph  a line?  a spiral?  a different circle?   "
 },
 {
-  "id": "exercise-23",
+  "id": "subsec-Graphing-a-surface-4",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-23",
+  "url": "section-matplotlib3d.html#subsec-Graphing-a-surface-4",
   "type": "You Try",
   "number": "1.19",
   "title": "",
   "body": "Run the code below trying both the command plot_surface() (current default) and scatter() to see the difference. "
 },
 {
-  "id": "exercise-24",
+  "id": "subsec-Graphing-a-surface-6",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-24",
+  "url": "section-matplotlib3d.html#subsec-Graphing-a-surface-6",
   "type": "You Try",
   "number": "1.20",
   "title": "",
   "body": "For the surface, increase the step in each input and run the above code again. When does the surface start to look polygonal instead of smooth? "
 },
 {
-  "id": "exercise-25",
+  "id": "subsec-Graphing-a-surface-7",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-25",
+  "url": "section-matplotlib3d.html#subsec-Graphing-a-surface-7",
   "type": "You Try",
   "number": "1.21",
   "title": "",
   "body": "Modify the above code to graph the surface . Choose a reasonable range of inputs that shows the important features of the graph. "
 },
 {
-  "id": "exercise-26",
+  "id": "subsec-Graphing-a-surface-8",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-26",
+  "url": "section-matplotlib3d.html#subsec-Graphing-a-surface-8",
   "type": "You Try",
   "number": "1.22",
   "title": "",
   "body": "Change the surface to . What step size is needed to make the input window [-2,2] and [-2,2] display a smooth surface? "
 },
 {
-  "id": "exercise-27",
+  "id": "subsec-3DAxesandLabels-4",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-27",
+  "url": "section-matplotlib3d.html#subsec-3DAxesandLabels-4",
   "type": "You Try",
   "number": "1.23",
   "title": "",
   "body": "In the above code, use parallel syntax to add a label to the -axis. "
 },
 {
-  "id": "exercise-28",
+  "id": "subsec-3DAxesandLabels-6",
   "level": "2",
-  "url": "section-matplotlib3d.html#exercise-28",
+  "url": "section-matplotlib3d.html#subsec-3DAxesandLabels-6",
   "type": "You Try",
   "number": "1.24",
   "title": "",
@@ -394,39 +394,39 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Solving Systems of Linear Equations via Row Reduction",
-  "body": " Solving Systems of Linear Equations via Row Reduction  Systems of linear equations can be solved using multiple methods. In this section we will learn how to solve systems of linear equations using a process called row reduction. Row reduction is sometimes called Gaussian elimination, after the mathematician Gauss. Long before Gauss, Chinese scholars demonstrated this method of solving systems of linear equations in chapter 8 of The Nine Chapters on the Mathematical Art. .      Row reduce matrices representing systems of linear equations using the Python library Sympy.    Graph systems of linear equations of two or three variables.      Row Reduction  Note that row reduction involves symbolic manipulation. Since Numpy is focused on number crunching, so we will need a different Python library called Sympy to do the symbolic manipulation of row reductin to reduced echelon form and row reduced echelon form using the functions ref() and rref() respectively.  In order to row reduce a system of linear equations we convert our system into an augmented matrix. For example becomes   In Sympy, matrices are entered using the function Matrix .   Edit the above code to print the augmented matrix for our example system of linear equations.  Edit the code below to print the reduced echelon form and the row reduced echelon form for the augmented matrix from our example system of linear equations.   Note that rref() returns not only the row reduced echelon form of a matrix, but also a tuple that tells you which columns are pivot columns, that is have leading values of 1.  Edit the code above for various augmented matrices to see how the tuple relates to the pivot columns.  Things left to do here: (1) something about unique solutions, infinitely many solutions or no solutions, (2) graphing solutions to systems  Since Numpy and Sympy are different libraries, we will need to either enter our augmented matrix as a Sympy matrix, or convert a numpy array into a sympy matrix in order to call the row reducing function in Sympy.     Summary     blah      blah      "
+  "body": " Solving Systems of Linear Equations via Row Reduction  Systems of linear equations can be solved using multiple methods. In this section we will learn how to solve systems of linear equations using a process called row reduction. Row reduction is sometimes called Gaussian elimination, after the mathematician Gauss. Long before Gauss, Chinese scholars demonstrated this method of solving systems of linear equations in chapter 8 of The Nine Chapters on the Mathematical Art. .      Row reduce matrices representing systems of linear equations using the Python library Sympy.    Graph systems of linear equations of two or three variables.    Use the pivots of a reduced augmented matrix to determine if a system has no solution, a unique solution, or infinitely many solutions    Something about using linalgsolve()? or wait until later?      Row Reduction  Note that row reduction involves symbolic manipulation. Since Numpy is focused on number crunching, so we will need a different Python library called Sympy to do the symbolic manipulation of row reduction to reduced echelon form and row reduced echelon form using the functions ref() and rref() respectively.  In order to row reduce a system of linear equations we convert our system into an augmented matrix. For example becomes   In Sympy, matrices are entered using the function Matrix .   Edit the above code to print the augmented matrix for our example system of linear equations.  Edit the code below to print the reduced echelon form and the row reduced echelon form for the augmented matrix from our example system of linear equations.   Note that rref() returns not only the row reduced echelon form of a matrix, but also a tuple that tells you which columns are pivot columns, that is have leading values of 1.  Edit the code above for various augmented matrices to see how the tuple relates to the pivot columns.  Things left to do here: (1) something about unique solutions, infinitely many solutions or no solutions, (2) graphing solutions to systems  Since Numpy and Sympy are different libraries, we will need to either enter our augmented matrix as a Sympy matrix, or convert a numpy array into a sympy matrix in order to call the row reducing function in Sympy.     Summary     blah      blah      "
 },
 {
-  "id": "objectives-7",
+  "id": "section-systems-3",
   "level": "2",
-  "url": "section-systems.html#objectives-7",
+  "url": "section-systems.html#section-systems-3",
   "type": "Objectives",
   "number": "2.1",
   "title": "",
-  "body": "   Row reduce matrices representing systems of linear equations using the Python library Sympy.    Graph systems of linear equations of two or three variables.    "
+  "body": "   Row reduce matrices representing systems of linear equations using the Python library Sympy.    Graph systems of linear equations of two or three variables.    Use the pivots of a reduced augmented matrix to determine if a system has no solution, a unique solution, or infinitely many solutions    Something about using linalgsolve()? or wait until later?    "
 },
 {
-  "id": "exercise-29",
+  "id": "rref-6",
   "level": "2",
-  "url": "section-systems.html#exercise-29",
+  "url": "section-systems.html#rref-6",
   "type": "You Try",
   "number": "2.1",
   "title": "",
   "body": "Edit the above code to print the augmented matrix for our example system of linear equations. "
 },
 {
-  "id": "exercise-30",
+  "id": "rref-7",
   "level": "2",
-  "url": "section-systems.html#exercise-30",
+  "url": "section-systems.html#rref-7",
   "type": "You Try",
   "number": "2.2",
   "title": "",
   "body": "Edit the code below to print the reduced echelon form and the row reduced echelon form for the augmented matrix from our example system of linear equations. "
 },
 {
-  "id": "exercise-31",
+  "id": "rref-10",
   "level": "2",
-  "url": "section-systems.html#exercise-31",
+  "url": "section-systems.html#rref-10",
   "type": "You Try",
   "number": "2.3",
   "title": "",
@@ -439,39 +439,57 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Matrix Arithmetic",
-  "body": " Matrix Arithmetic  In this section we will learn how to     C    D      Title          Summary     blah      blah      "
+  "body": " Matrix Arithmetic  In this section we will learn how to     Add, subtract, scale, and multiply matrices in Numpy    Find matrix inverses    Use matrix inverses to solve systems of linear equations      Title          Summary     blah      blah      "
 },
 {
-  "id": "objectives-8",
+  "id": "section-matrices-3",
   "level": "2",
-  "url": "section-matrices.html#objectives-8",
+  "url": "section-matrices.html#section-matrices-3",
   "type": "Objectives",
   "number": "2.2",
   "title": "",
-  "body": "   C    D    "
+  "body": "   Add, subtract, scale, and multiply matrices in Numpy    Find matrix inverses    Use matrix inverses to solve systems of linear equations    "
 },
 {
-  "id": "exercise-32",
+  "id": "section-matrices-4-3",
   "level": "2",
-  "url": "section-matrices.html#exercise-32",
+  "url": "section-matrices.html#section-matrices-4-3",
   "type": "You Try",
   "number": "2.4",
   "title": "",
   "body": ""
 },
 {
+  "id": "section-animation",
+  "level": "1",
+  "url": "section-animation.html",
+  "type": "Section",
+  "number": "3.1",
+  "title": "Animation",
+  "body": " Animation  In this section we will attempt to do some fun animations (with proper browser controls!)     Create a simple animation with mathplotlib      Native SageMath animation  Note that this generates a .gif on SageMath's servers, and displays the image when complete. There is zero interactivity; any changes would necessitate the creation of a new .gif.     SageMath interactivity     matplotlib animation         Summary     blah      blah      "
+},
+{
+  "id": "section-animation-3",
+  "level": "2",
+  "url": "section-animation.html#section-animation-3",
+  "type": "Objectives",
+  "number": "3.1",
+  "title": "",
+  "body": "   Create a simple animation with mathplotlib    "
+},
+{
   "id": "appendix",
   "level": "1",
   "url": "appendix.html",
   "type": "Chapter",
-  "number": "3",
+  "number": "4",
   "title": "Appendix",
   "body": " Appendix   "
 },
 {
-  "id": "colophon-2",
+  "id": "backmatter-2",
   "level": "1",
-  "url": "colophon-2.html",
+  "url": "backmatter-2.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
@@ -483,6 +501,7 @@ var ptx_lunr_idx = lunr(function () {
   this.ref('id')
   this.field('title')
   this.field('body')
+  this.metadataWhitelist = ['position']
 
   ptx_lunr_docs.forEach(function (doc) {
     this.add(doc)
